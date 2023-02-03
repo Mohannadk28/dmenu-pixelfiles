@@ -48,6 +48,7 @@ dmenu_run
 *.pdb
 
 # Diff Things
+*.diff
 *.orig
 *.rej
 *.bk
