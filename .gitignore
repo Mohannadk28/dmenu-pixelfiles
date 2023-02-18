@@ -41,6 +41,7 @@ dmenu
 dmenu_path
 dmenu_run
 config.h
+stest
 
 # Debug files
 *.dSYM/
