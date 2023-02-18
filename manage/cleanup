@@ -1,0 +1,14 @@
+#!/bin/sh
+
+rm -rf ./*.o
+
+rm -rf ./*.bk
+rm -rf ./*.orig
+rm -rf ./*.rej
+rm -rf ./*.diff
+
+rm -rf ./config.h
+
+rm -rf ./stest
+rm -rf ./dmenu
+
