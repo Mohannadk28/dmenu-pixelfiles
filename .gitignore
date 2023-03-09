@@ -38,8 +38,6 @@
 
 # DMENU
 dmenu
-dmenu_run
-dmenu_path
 config.h
 
 # Debug files
