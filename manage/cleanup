@@ -9,6 +9,7 @@ rm -rf ./*.diff
 
 rm -rf ./config.h
 
-rm -rf ./stest
 rm -rf ./dmenu
+rm -rf ./dmenu_run
+rm -rf ./dmenu_path
 

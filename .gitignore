@@ -39,7 +39,6 @@
 # DMENU
 dmenu
 config.h
-stest
 
 # Debug files
 *.dSYM/
